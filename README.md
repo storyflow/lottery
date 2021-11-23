@@ -1,6 +1,6 @@
 # 抽奖插件
 
-演示地址：https://han8gui.github.io/lottery/
+演示地址：https://storyflow.github.io/lottery/
 
 使用方法：
 
